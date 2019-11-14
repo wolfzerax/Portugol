@@ -1,0 +1,34 @@
+blogs
+- devmedia
+- tutorialspoint
+- geeks for geeks
+- web code geeks
+- code academy
+- w3schools.com
+- code ranch
+- stack overflow
+- professorisidro.com.br
+- curso em video
+- alura
+- caelum
+- globalcode
+- the developers conference
+- udemy
+- udacity
+
+redes sociais
+- Twitter( @brjavaman, @otaviojava, @rafabene, @eldermoraes, @loiane,
+@babadopulos, @fabianenardon, @arungupta, @venkat_s, @prof_isidro)
+
+encontros
+- meetup.com
+
+webinars
+- soujava Rio, Soujava SP, Java Bahia, RSJug, DFJug, 
+youtube.com/ProfessorIsidroVamosProgramar
+
+informativos
+- infoq, 
+- infojobs, 
+- catho online, 
+- linkedin

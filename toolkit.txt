@@ -1,0 +1,17 @@
+- sei o que são variáveis? e para que servem?
+- sei ler valores? 
+	leia
+- sei mostrar valores/mensagens na tela?
+	escreva
+- sei fazer continhas?
+	+, -, /, *, %
+- das continhas, sei fazer coisas mais "legais?"
+	acumular 	cont++ / cont = cont + x
+			total = total + valor
+- sei tomar decisoes?
+	se 
+	se / senao
+- sei fazer coisas repetitivas?
+	quando sei exatamente a qtde?  PARA
+	e quando nao sei a quantidade? ENQUANTO / FACA-ENQUANTO
+-
