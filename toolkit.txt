@@ -13,5 +13,5 @@
 	se / senao
 - sei fazer coisas repetitivas?
 	quando sei exatamente a qtde?  PARA
-	e quando nao sei a quantidade? ENQUANTO / FACA-ENQUANTO
+	e quando nao sei a quantidade? ENQUANTO / FACA-ENQUANTO,
 -
