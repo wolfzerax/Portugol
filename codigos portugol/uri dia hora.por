@@ -12,7 +12,7 @@ programa
 				escreva("dia ", w ,"\n", x, " : " , y, " : ", z "\n ")
 				escreva("\n final :\n")
 				leia (w2,x2,y2,z2)
-				escreva("dia ", w2 ,"\n", x2, " : " , y2, " : ", z2, " ")
+				escreva("dia ", w2 ,"\n", x2, " : " , y2, " : ", z2, " \n")
 			
 
 			
@@ -21,12 +21,27 @@ programa
 					{
 						
 							
-							result[0] = w - w2
-							result[1] = x - x2
-							result[2] = y - y2
-							result[3] = z - z2
+							result[0] = w2 - w
+							result[1] = x2 - x
+							result[2] = y2 - y
+							result[3] = z2 - z
+					se( result[3] <0)
+					{
+						result[3] = 60 + result[3]
+						result[2]--						
+					}
+					se ( result[2] <0 )
+					{
+						result[2] = 60 + result[2]
+						result[1]--				
+					}
+					se( result [1] < 0)
+					{
+						result[1] = 24 + result[1]
+						result[0]--
+					}
+
 						
-				
 				}
 			
 			escreva( result[0]," dia(s)\n", result[1], " : ",result[2], " :", result[3])
@@ -38,7 +53,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 472; 
+ * @POSICAO-CURSOR = 795; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
